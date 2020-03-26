@@ -1,0 +1,2 @@
+BERNARD;Robert;robert.bernard@hotmail.com;0666666666;85 rue de blah blah, 31400 Toulouse;01/03/1949;abcd;
+VIDAL;Louis;louis.vidal@hotmail.com;Non renseigné;Non renseigné;Non renseigné;Non renseigné;
